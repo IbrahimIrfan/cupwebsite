@@ -85,6 +85,7 @@ figcaption {
     margin-top: 35px;
     font-size: 20px;
     border-collapse: collapse;
+    width: 80%;
 }
 td {
     border: 1px solid black;
@@ -128,5 +129,11 @@ thead tr td {
     }
     .dateText {
         font-size: 30px !important;
+    }
+    #sched{
+      font-size: 15px !important;
+    }
+    #sched tr td{
+      padding: 7;
     }
 }
